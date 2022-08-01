@@ -6,6 +6,6 @@ for i in range(1,9): #it will print number starting from 1 and will end on 8.
 
     #step_size rang function.
 
-    # for i in range (1,9,2) #it will skilp the value '2' after the 1 it will direct print 3.
+    # for i in range (1,9,2) #it will skip the value '2' after the 1 it will direct print 3.
     # print(i) 
 
